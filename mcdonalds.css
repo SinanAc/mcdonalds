@@ -1,0 +1,253 @@
+body{
+    margin: 0;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+    height: 4000px;
+}
+.header{ 
+    width: 100%;
+    height: 130px;
+    box-shadow: 0 0.0625rem 0.5rem 0 rgb(0 0 0 / 4%), 0 0.0625rem 0.3125rem 0 rgb(0 0 0 / 4%);
+    float: left;
+}
+#mclogo{
+    padding-left: 174px;
+    padding-top: 19px;
+    width: 108px;
+    height: 108px;
+    float: left;
+}
+.language-btn,.signup,.career{
+    padding-left: 30px;
+}
+.language{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.first-row{
+    font-size: 14px;
+    padding-left: 30px;
+    padding-top: 25px;
+    color: #292929;
+    display: flex;
+}
+.menu-btn,.download,.rewards,.deals,.about,.locate,.icon{
+    padding-left: 30px;
+}
+.menu{
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+.second-row{
+    font-weight: calc();
+    font-size: 18px;
+    padding-left: 30px;
+    padding-top: 40px;
+    display: flex;
+}
+.nav-btns{
+    text-decoration: none;
+    color: #292929;
+}
+.search-icon{
+    margin-left: 620px;
+    margin-top: -83px;
+    float: left;
+}
+.right-top{
+    font-size: 15px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    color: #292929;
+    display: flex;
+}
+.search{
+    margin-left: 640px;
+    margin-top: -83px;
+    float: left;
+    text-decoration: none;
+    color: #292929;
+}
+.location-icon{
+    margin-left: 709px;
+    margin-top: -84px;
+    float: left;
+}
+.location{
+    font-size: 15px;
+    margin-left: 728px;
+    margin-top: -83px;
+    float: left;
+}
+.order{
+    margin-left: 1177px;
+    margin-top: -112px;
+    float: left;
+}
+.order-btn{
+    padding: 9px 19px;
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    float: left;
+    text-decoration: none;
+    color: #292929;   
+}
+.right-section{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding-top: 100px;
+}
+.img{
+    width: 750px;
+    height: 340px;
+    padding-left: 182px;
+    padding-top: 130px;
+}
+.para1{
+    font-size: 16px;
+}
+.para2{
+    font-size: 12px;
+}
+.part1{
+    display: flex;
+    width: 100%;
+    height: 518px;
+}
+.buttons{
+    width: 250px;
+    height: 44px;
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #292929;
+    cursor: pointer;
+}
+.button-sections{
+    padding-top: 10px;
+}
+.part2{
+    display: flex;
+    width: 100%;
+    height: 563px;
+}
+.part3{
+    display: flex;
+    width: 100%;
+    height: 370px;
+}
+#third-img{
+    width: 350px;
+    height: 240px;
+    padding-left: 182px;
+    padding-top: 130px;
+}
+.part4{
+    display: flex;
+    width: 100%;
+    height: 655px;
+}
+.part5{
+    display: flex;
+    width: 100%;
+    height: 470px;
+}
+.part6{
+    display: flex;
+    width: 100%;
+    height: 470px;
+}
+.footer-headings{
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 171px;
+    padding-top: 100px;
+    color: #292929;
+    display: flex;
+}
+.footer-h{
+     padding-left: 257px;
+}
+.footer-lists{
+    padding-left: 132px;
+    padding-top: 3px;
+    display: flex;
+}
+.about-us li{
+    padding-top: 8px;
+}
+.services{
+    padding-left: 141px;    
+}
+.services li{
+    padding-top: 8px;
+}
+.community{
+    padding-left: 94px;    
+}
+.community li{
+    padding-top: 8px;
+}
+.contact-us{
+    padding-left: 98px;    
+}
+.contact-us li{
+    padding-top: 8px;
+}
+.social-media-icons{
+    padding-left: 135px;
+    padding-top: 44px;
+    display: flex;
+    height: 0;
+}
+.sm-icons{
+    padding-left: 23px;
+}
+.app-store1{
+   padding-left: 1015px ;
+}
+.footer-words{
+    font-size: 14px;
+    padding-left: 122px;
+    padding-top: 55px;
+    display: flex;
+}
+.footer-w{
+    text-decoration: none;
+    padding-left: 38px;
+    color: #292929;
+}
+.m-icon-img{
+    width: 25px;
+    height: 25px;
+}
+.m-micro-icon{
+    padding-left: 222px;
+}
+.footer-words2{
+    font-size: 14px;
+    padding-left: 122px;
+    padding-top: 25px;
+    display: flex;
+}
+.footer-w2{
+    text-decoration: none;
+    padding-left: 38px;
+    color: #292929;
+}
+
+
+
+
+
+
+
+
+
